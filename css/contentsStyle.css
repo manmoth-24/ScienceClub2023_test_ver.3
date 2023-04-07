@@ -1,0 +1,26 @@
+main{
+    padding: 20px;
+}
+.mainInMain{
+    padding: 10px 25px 40px 25px;
+}
+.contentMenu{
+    margin-top: 60px;
+    border-top: 5px double green;
+    padding-top: 40px;
+}
+.previousContent{
+    display: block;
+    font-size: 20px;
+    float: left;
+    margin-right: 20px;
+}
+.nextContent{
+    display: block;
+    font-size: 20px;
+    float: left;
+}
+h3{
+    border-bottom: 5px dashed green;
+    padding-bottom: 20px;
+}

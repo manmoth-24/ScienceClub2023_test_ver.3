@@ -1,0 +1,21 @@
+.aTeacher{
+    float: left;
+    border: 5px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 2.5%;
+}
+.aTeacher{
+    width: 45%;
+}
+.aTeacher img{
+    width: 100%;
+}
+.MainH2MemoKojinjoho{
+    margin: 20px;
+}
+.title{
+    margin: 20px;
+    border-bottom: 5px solid #55f;
+    font-size: 50px;
+}

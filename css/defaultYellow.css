@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+}
+*{
+    font-family: sans-serif;
+}
+footer{
+    background-color: #aa0;
+    border-radius: 5px;
+    padding: 50px;
+}
+footer h1{
+    float: left;
+    color: white;
+}
+footer a{
+    color: white;
+}
+footer li{
+    list-style-type: none;
+    text-align: right;
+}
+.goHome{
+    display: block;
+    font-size: 40px;
+    text-align: right;
+    border-bottom: 5px dotted #ff5;
+    margin-bottom: 20px;
+}
+.previousContent{
+    display: block;
+    font-size: 20px;
+    float: left;
+    margin-right: 20px;
+}
+.nextContent{
+    display: block;
+    font-size: 20px;
+    float: left;
+}
